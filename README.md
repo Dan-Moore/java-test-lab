@@ -8,4 +8,6 @@ mvn clean instal
 ```
 
 ## Unit Test Location
-Sample test scripts can be found within the /test directory.
+Test scripts can be found within the /test directory.
+
+A simple test on working with a Selenium WebDriver can be found [here](src/test/java/lab/selenium/WebDriver_Example.java)
